@@ -20,8 +20,9 @@ https://colab.research.google.com/github/ImagingInformatics/machine-learning/blo
 
 (Will remove) For our testing use:
 ```angular2
-https://colab.research.google.com/github/TLKline/machine-learning/blob/master/SiiM2019/MLcourse_Notebook_1_update.ipynb 
+https://colab.research.google.com/github/TLKline/machine-learning/blob/master/SiiM2020_LearningLabs/MLcourse_Notebook_1_update.ipynb
 ```
+
 where xxx is replaced by "MLcourse_Notebook_1_update.ipynb" or the other notebooks you see on this site
 
 
