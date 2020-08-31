@@ -1,12 +1,10 @@
-# SiiM 2019
+# SiiM 2020
 
-Author: Tim Kline PhD, kline.timothy@mayo.edu
-
-Original upload date: 28 June 2019
+Author: Timothy Kline PhD, kline.timothy@mayo.edu
 
 Purpose:
 --
-These are the Jupyter notebooks covered on the Machine Learning 1 session at the Denver SiiM annual meeting. To run they  need to in the Jupyter environment. This can be done on either a remote system or running locally on your computer. The next section shows how. 
+These are the Jupyter notebooks covered in Machine Learning 1 - Training Your First Models. They are most easily run on google colab, but can be downloaded and run locally as well. The next sections show how to run. 
 
 Requirements:
 --
@@ -15,7 +13,7 @@ A very quick way to try out the notebooks on this site is to link them to Google
 to have a Google account of some type (Gmail works). Then, in your Chrome browser (others likely won't work)
 enter the following
 ```
-https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2019/xxx 
+https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2020/xxx 
 ```
 
 (Will remove) For our testing use:
@@ -24,6 +22,10 @@ https://colab.research.google.com/github/TLKline/machine-learning/blob/master/Si
 ```
 
 where xxx is replaced by "MLcourse_Notebook_1_update.ipynb" or the other notebooks you see on this site
+
+```angular2
+https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2020/MLcourse_Notebook_1_update.ipynb
+```
 
 
 #### Running locally
@@ -37,7 +39,7 @@ After completing the above two tasks make sure to come back to this page.
 
 Contents:
 --
-Now that you have the DOcker runtime and the Jupyter notebook runnning, you can get the content for this course here
+Now that you have the Docker runtime and the Jupyter notebook runnning, you can get the content for this course here
 https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ImagingInformatics/machine-learning/tree/master/SiiM2019
 
 This project contains 5 notebooks, a folder called "figures" (which is used by notebook xxx) and some extra instructions (e.g. how to get an MD.ai token for pulling data sets)
