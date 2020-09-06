@@ -39,14 +39,14 @@ After completing the above two tasks make sure to come back to this page.
 
 Contents:
 --
-Now that you have the Docker runtime and the Jupyter notebook runnning, you can get the content for this course here
+Now that you have the Docker runtime and the Jupyter notebook running, you can get the content for this course here
 https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ImagingInformatics/machine-learning/tree/master/SiiM2019
 
 This project contains 5 notebooks, a folder called "figures" (which is used by notebook xxx) and some extra instructions (e.g. how to get an MD.ai token for pulling data sets)
 
 Instructions:
 --
-First, follow the instructions under Requirements for installing the Docker runtime and installing the Jupyter DOcker on your computer. Once that is done pull down the Notebooks in this git folder and save them to the ALL_NOTEBOOKS folder you created in the Requirements section. 
+First, follow the instructions under Requirements for installing the Docker runtime and installing the Jupyter Docker on your computer. Once that is done pull down the Notebooks in this git folder and save them to the ALL_NOTEBOOKS folder you created in the Requirements section. 
 Each notebook is commented with the additional information required to run it once it is pulled into Jupyter  (e.g. if it needs an MDai token to fetch data)
 
 
